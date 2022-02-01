@@ -7,10 +7,9 @@
 
 <body>
     <center>
-        <h1>Storing Form data in Database</h1>
+        <h1>Storing username</h1>
 
         <form action="insert.php" method="post">
-
 
             <p>
                 <label for="Username">Username:</label>
